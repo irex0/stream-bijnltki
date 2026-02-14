@@ -1,5 +1,13 @@
 window.videoData = [
   {
+    "date": "2026-02-14T01:22:27-06:00",
+    "description": "",
+    "id": "e447918c-222e-4591-9c52-74450fbeda14",
+    "playlist": "videos/e447918c-222e-4591-9c52-74450fbeda14/playlist.m3u8",
+    "thumbnail": "videos/e447918c-222e-4591-9c52-74450fbeda14/thumb.jpg",
+    "title": "Jagadhatri 9th February 2026 Episode 91"
+  },
+  {
     "date": "2026-02-14T00:48:02-06:00",
     "description": "",
     "id": "7575dc4f-c178-492a-8940-c39664abe3d7",

@@ -1,5 +1,13 @@
 window.videoData = [
   {
+    "date": "2026-02-14T00:48:02-06:00",
+    "description": "",
+    "id": "7575dc4f-c178-492a-8940-c39664abe3d7",
+    "playlist": "videos/7575dc4f-c178-492a-8940-c39664abe3d7/playlist.m3u8",
+    "thumbnail": "videos/7575dc4f-c178-492a-8940-c39664abe3d7/thumb.jpg",
+    "title": "Jagadhatri 8th February 2026 Episode 90"
+  },
+  {
     "date": "2026-02-14T00:20:35-06:00",
     "description": "",
     "id": "abf7e7a4-9599-49f6-aebd-811ebcb7bad3",

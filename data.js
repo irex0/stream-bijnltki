@@ -1,5 +1,13 @@
 window.videoData = [
   {
+    "date": "2026-02-13T23:41:42-06:00",
+    "description": "",
+    "id": "e81238de-49e4-4ff7-a67c-0d90d32dc327",
+    "playlist": "videos/e81238de-49e4-4ff7-a67c-0d90d32dc327/playlist.m3u8",
+    "thumbnail": "videos/e81238de-49e4-4ff7-a67c-0d90d32dc327/thumb.jpg",
+    "title": "Jagadhatri 13th February 2026 Episode 95"
+  },
+  {
     "date": "2026-02-13T23:13:18-06:00",
     "description": "",
     "id": "f1ff7394-e6ca-4eeb-b570-e4ac09e188e4",

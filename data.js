@@ -1,5 +1,13 @@
 window.videoData = [
   {
+    "date": "2026-02-14T00:20:35-06:00",
+    "description": "",
+    "id": "abf7e7a4-9599-49f6-aebd-811ebcb7bad3",
+    "playlist": "videos/abf7e7a4-9599-49f6-aebd-811ebcb7bad3/playlist.m3u8",
+    "thumbnail": "videos/abf7e7a4-9599-49f6-aebd-811ebcb7bad3/thumb.jpg",
+    "title": "Jagadhatri 14th February 2026 Episode 96"
+  },
+  {
     "date": "2026-02-13T23:41:42-06:00",
     "description": "",
     "id": "e81238de-49e4-4ff7-a67c-0d90d32dc327",
